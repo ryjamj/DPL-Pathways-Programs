@@ -1,0 +1,45 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\bin\Debug\net7.0\CompChalSG.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\bin\Debug\net7.0\CompChalSG.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\bin\Debug\net7.0\CompChalSG.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\bin\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\bin\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\refint\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\CompChalSG.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\CompChalSG\obj\Debug\net7.0\ref\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\refint\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\bin\Debug\net7.0\CompChalSG.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\bin\Debug\net7.0\CompChalSG.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\bin\Debug\net7.0\CompChalSG.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\bin\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\bin\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\CompChalSG.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\CompChalSG\obj\Debug\net7.0\ref\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\bin\Debug\net7.0\CompChalSG.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\bin\Debug\net7.0\CompChalSG.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\bin\Debug\net7.0\CompChalSG.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\bin\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\bin\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\refint\CompChalSG.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\CompChalSG.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week1\CompChalSG\obj\Debug\net7.0\ref\CompChalSG.dll

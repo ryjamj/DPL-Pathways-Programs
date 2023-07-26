@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\bin\Debug\net7.0\2DarrayScore.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\bin\Debug\net7.0\2DarrayScore.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\bin\Debug\net7.0\2DarrayScore.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\bin\Debug\net7.0\2DarrayScore.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\bin\Debug\net7.0\2DarrayScore.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\refint\2DarrayScore.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\2DarrayScore.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\2DarrayScore\obj\Debug\net7.0\ref\2DarrayScore.dll

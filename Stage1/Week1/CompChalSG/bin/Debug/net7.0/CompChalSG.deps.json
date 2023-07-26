@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CompChalSG/1.0.0": {
+        "runtime": {
+          "CompChalSG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompChalSG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

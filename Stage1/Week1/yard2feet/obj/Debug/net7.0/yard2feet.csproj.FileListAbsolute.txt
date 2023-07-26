@@ -1,0 +1,30 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\bin\Debug\net7.0\yard2feet.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\bin\Debug\net7.0\yard2feet.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\bin\Debug\net7.0\yard2feet.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\bin\Debug\net7.0\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\bin\Debug\net7.0\yard2feet.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\refint\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\yard2feet.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\yard2feet\obj\Debug\net7.0\ref\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\bin\Debug\net7.0\yard2feet.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\bin\Debug\net7.0\yard2feet.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\bin\Debug\net7.0\yard2feet.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\bin\Debug\net7.0\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\bin\Debug\net7.0\yard2feet.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\refint\yard2feet.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\yard2feet.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\yard2feet\obj\Debug\net7.0\ref\yard2feet.dll

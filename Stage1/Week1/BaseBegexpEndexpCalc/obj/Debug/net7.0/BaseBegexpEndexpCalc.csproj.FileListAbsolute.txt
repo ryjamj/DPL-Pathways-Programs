@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\bin\Debug\net7.0\BaseBegexpEndexpCalc.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\bin\Debug\net7.0\BaseBegexpEndexpCalc.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\bin\Debug\net7.0\BaseBegexpEndexpCalc.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\bin\Debug\net7.0\BaseBegexpEndexpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\bin\Debug\net7.0\BaseBegexpEndexpCalc.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\refint\BaseBegexpEndexpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\BaseBegexpEndexpCalc.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseBegexpEndexpCalc\obj\Debug\net7.0\ref\BaseBegexpEndexpCalc.dll

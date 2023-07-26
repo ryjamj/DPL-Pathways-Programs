@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\bin\Debug\net7.0\BaseExpCalc.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\bin\Debug\net7.0\BaseExpCalc.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\bin\Debug\net7.0\BaseExpCalc.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\bin\Debug\net7.0\BaseExpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\bin\Debug\net7.0\BaseExpCalc.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\refint\BaseExpCalc.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\BaseExpCalc.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\BaseExpCalc\obj\Debug\net7.0\ref\BaseExpCalc.dll

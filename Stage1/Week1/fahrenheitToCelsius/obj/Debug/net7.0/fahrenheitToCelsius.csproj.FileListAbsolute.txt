@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\refint\fahrenheitToCelsius.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage 1\Week 1\fahrenheitToCelsius\obj\Debug\net7.0\ref\fahrenheitToCelsius.dll

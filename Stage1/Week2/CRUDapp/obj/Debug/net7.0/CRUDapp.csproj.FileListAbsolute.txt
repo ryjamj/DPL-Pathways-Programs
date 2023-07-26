@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\bin\Debug\net7.0\CRUDapp.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\bin\Debug\net7.0\CRUDapp.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\bin\Debug\net7.0\CRUDapp.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\bin\Debug\net7.0\CRUDapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\bin\Debug\net7.0\CRUDapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\refint\CRUDapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\CRUDapp.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CRUDapp\obj\Debug\net7.0\ref\CRUDapp.dll
