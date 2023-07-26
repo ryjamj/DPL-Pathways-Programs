@@ -65,6 +65,7 @@ namespace CRUDApp
             string[] nameArray = new string[arraySize];
             string inputFileName = "names.txt";
             string outputFileName = "new_names.txt";
+            bool itemFoundBool;
 
             // do while to loop Main()
             do
@@ -143,27 +144,33 @@ namespace CRUDApp
                 //  TODO: Else if the option is a 'C' or 'c' then add a name to the array (if there's room)
                 else if (userChoiceString == "C" || userChoiceString == "c")
                 {
+                    itemFoundBool = false; // flag variable
                     Console.WriteLine("-- In the C/c area --");
 
                     // for-loop, look for blank value, fill in with new name
                     for (int index = 0; index < arraySize; index++)
                     {
-                        if ((nameArray[index]) == "")
+                        if ((nameArray[index]) != "")
                         {
-                            Console.WriteLine($"Space found at index '{index}'.");
-                            nameArray[index] = checkNameStringMeth();
+                            // nothing, skip for now
                         }
                         else
                         {
-                            Console.WriteLine($"index '{index}' is occupied.");
+                            if (itemFoundBool == false)
+                            {
+                                Console.WriteLine($"Space found at index '{index}'.");
+                                nameArray[index] = checkNameStringMeth();
+                                itemFoundBool = true;
+                            }
                         }
+
                     } // end for-loop
 
-                    Console.WriteLine("Array is the following...");
-                    for (int index = 0; index < arraySize; index++)
+                    if (itemFoundBool == false)
                     {
-                        Console.WriteLine(nameArray[index]);
+                        Console.WriteLine("Thre is no room for any more names.");
                     }
+
                 } // end else if C
 
 
@@ -181,9 +188,34 @@ namespace CRUDApp
                 } // end else if R
 
 
+                // //  TODO: Else if the option is a 'U' or 'u' then update a name in the array (if it's there)
+                // else if (userChoiceString == "U" || userChoiceString == "u")
+                // {
+                //     Console.WriteLine("-- In the U/u area --");
+                //     Console.WriteLine("Look for name to update in array");
+                //     checkNameString = checkNameStringMeth();
+
+                //     // for-loop, Look for checkNameString
+                //     for (int index = 0; index < arraySize; index++)
+                //     {
+                //         if ((nameArray[index]) == checkNameString)
+                //         {
+                //             Console.WriteLine($"'{checkNameString}' found at index '{index}'.");
+                //             nameArray[index] = checkNameStringMeth();
+                //         }
+                //         else
+                //         {
+                //             Console.WriteLine($"That name is not at index '{index}'.");
+                //         }
+                //     } // end for-loop
+
+                // } // end else if U
+
+
                 //  TODO: Else if the option is a 'U' or 'u' then update a name in the array (if it's there)
                 else if (userChoiceString == "U" || userChoiceString == "u")
                 {
+                    itemFoundBool = false; // flag variable
                     Console.WriteLine("-- In the U/u area --");
                     Console.WriteLine("Look for name to update in array");
                     checkNameString = checkNameStringMeth();
@@ -191,23 +223,24 @@ namespace CRUDApp
                     // for-loop, Look for checkNameString
                     for (int index = 0; index < arraySize; index++)
                     {
-                        if ((nameArray[index]) == checkNameString)
+                        if ((nameArray[index]) != checkNameString)
                         {
-                            Console.WriteLine($"'{checkNameString}' found at index '{index}'.");
-                            nameArray[index] = checkNameStringMeth();
+                            // nothing, skip for now
                         }
                         else
                         {
-                            Console.WriteLine($"That name is not at index '{index}'.");
+                            if (itemFoundBool == false)
+                            {
+                                Console.WriteLine($"'{checkNameString}' found at index '{index}'.");
+                                nameArray[index] = checkNameStringMeth();
+                            }
                         }
                     } // end for-loop
 
-                    Console.WriteLine("Array is the following...");
-                    for (int index = 0; index < arraySize; index++)
+                    if (itemFoundBool == false)
                     {
-                        Console.WriteLine(nameArray[index]);
+                        Console.WriteLine("Thre is no room for any more names.");
                     }
-
                 } // end else if U
 
 
@@ -232,12 +265,6 @@ namespace CRUDApp
                         }
                     } // end for-loop
 
-                    Console.WriteLine("Array is the following...");
-                    for (int index = 0; index < arraySize; index++)
-                    {
-                        Console.WriteLine(nameArray[index]);
-                    }
-
                 } // end else if D
 
 
@@ -254,3 +281,5 @@ namespace CRUDApp
         }  // end main
     }  // end program
 }  // end namespace
+
+
