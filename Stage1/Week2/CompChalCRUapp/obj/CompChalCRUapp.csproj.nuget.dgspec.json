@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\Stage1\\Week2\\CompChalCRUapp\\CompChalCRUapp.csproj": {}
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week2\\compchalcruapp\\CompChalCRUapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\Stage1\\Week2\\CompChalCRUapp\\CompChalCRUapp.csproj": {
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week2\\compchalcruapp\\CompChalCRUapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\Stage1\\Week2\\CompChalCRUapp\\CompChalCRUapp.csproj",
+        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week2\\compchalcruapp\\CompChalCRUapp.csproj",
         "projectName": "CompChalCRUapp",
-        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\Stage1\\Week2\\CompChalCRUapp\\CompChalCRUapp.csproj",
+        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week2\\compchalcruapp\\CompChalCRUapp.csproj",
         "packagesPath": "C:\\Users\\ryjam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\Stage1\\Week2\\CompChalCRUapp\\obj\\",
+        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week2\\compchalcruapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryjam\\AppData\\Roaming\\NuGet\\NuGet.Config",

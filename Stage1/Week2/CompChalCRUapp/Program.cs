@@ -9,9 +9,20 @@ Requirements:
 
 
 Algorithm:
-1 -
-
-
+You want to keep track of the name and your review of restaurants (0-5 stars) and you want it to be persistent (stored in a text file).  Provide room for 25 restaurants.
+You want a menu that will provide you the options of doing the following:
+O - Open the user's list of restaurants,
+S -  Save the user's list of restaurants
+Save them so there are no blank lines in the data file
+C - Add a restaurant and rating,
+Make sure the user provides both a restaurant and rating
+Make sure to handle the "file full" case
+R - Print a list of all the restaurants and their rating,
+Only print a list of the restaurants and ratings - no blank lines in your list
+Make sure to handle the case where there are no restaurants in the list
+U - Update the rating for a restaurant,
+D - Delete a restaurant
+Q - Quit the program
 */
 
 
@@ -31,7 +42,10 @@ namespace CompChalCRUApp
             // do while, check if nameString is valid
             do
             {
+                // input from user
                 inputString = Console.ReadLine();
+
+                // check if input is empty
                 if (String.IsNullOrEmpty(inputString))
                 {
                     Console.WriteLine("ERROR: string entry cannot be an empty entry. Try again.");
@@ -41,6 +55,46 @@ namespace CompChalCRUApp
             return inputString;
 
         } // end checkStringMeth()
+
+
+
+
+        // getStudentGradeMeth() method to get scores
+        // ================================================================================
+        static string checkRaitingMeth()
+        {
+            // Create variables.
+            string RatingString;
+            int Rating;
+            string outputRating;
+
+            // do-while loop to prompt user for raiting, msut be 0 <= x= 5.  
+            do
+            {
+                // input from user
+                RatingString = Console.ReadLine();
+
+                // check if the provided score is integer.
+                if (!int.TryParse(RatingString, out Rating))
+                {
+                    Console.WriteLine("ERROR: This is not a number, try again.");
+                }
+
+                // check if the provided score is 0 <= x <= 5.
+                if ((Rating > 5) || (Rating < -1))
+                {
+                    Console.WriteLine("ERROR: The number must be > 0 but < 5, try again.");
+                }
+
+            } while ((!int.TryParse(RatingString, out Rating)) || ((Rating > 5) || (Rating < -1))); //end do-while, score
+
+            // convert int to string, return string
+            outputRating = Rating.ToString();
+            outputRating = outputRating + " stars";
+            return outputRating;
+
+        } // end checkRaitingMeth()
+
 
 
 
@@ -178,26 +232,35 @@ namespace CompChalCRUApp
 
                     //TODO: Print to conole contents of 2d array.
                     Console.WriteLine("--- Here is the content of the file names.txt ---");
-                    for (int i = 0; i < name2DArray.GetLength(0); i++)
 
+
+                    /*
+                    try using counter, count number of "" entries. count to 25. if counter reaches 25, report back error message "file is blank"
+                    */
+
+
+                    for (int i = 0; i < name2DArray.GetLength(0); i++)
+                    {
                         if (name2DArray[i, 0] != "")
                         {
                             {
+                                // printing the 2d arary
                                 for (int j = 0; j < name2DArray.GetLength(1); j++)
                                 {
                                     Console.Write(name2DArray[i, j] + "\t");
                                 }
-                                //Console.Write($"at index:{i}: {name2DArray[i, j]}");
                                 Console.WriteLine();
                             }
                         }
+                    } // end for-loop
                 } // end else if R
 
 
                 // --------------------------------------------------------
-                //  TODO: Else if the option is a 'U' or 'u' then update the rating for a restaurant (if it's there)
+                //  Else if the option is a 'U' or 'u' then update the rating for a restaurant (if it's there)
                 else if (userChoiceString == "U" || userChoiceString == "u")
                 {
+                    itemFoundBool = false; // flag variable
                     Console.WriteLine("-- In the U/u area --");
                     Console.WriteLine("Look for restaurant to update raiting in array");
                     Console.WriteLine("--> Please enter in restaurant name...");
@@ -206,26 +269,35 @@ namespace CompChalCRUApp
                     // for-loop, Look for checkNameString
                     for (index = 0; index < Rows; index++)
                     {
-                        if ((name2DArray[index, 0]) == checkNameString)
+                        if ((name2DArray[index, 0]) != checkNameString)
                         {
-                            Console.WriteLine($"'Found at index '{index}', restaurant '{name2DArray[index, 0]}' has a rating of '{name2DArray[index, 1]}'.");
-                            Console.WriteLine("--> Please enter in new raiting for the restaurant...");
-                            name2DArray[index, 1] = checkStringMeth();
+                            // nothing, skip for now
                         }
                         else
                         {
-                            Console.WriteLine($"That name is not at index '{index}'.");
+                            if (itemFoundBool == false)
+                            {
+                                Console.WriteLine($"'Found at index '{index}', restaurant '{name2DArray[index, 0]}' has a rating of '{name2DArray[index, 1]}'.");
+                                Console.WriteLine("--> Please enter in new raiting for the restaurant...");
+                                name2DArray[index, 1] = checkRaitingMeth();
+                                itemFoundBool = true;
+                            }
                         }
                     } // end for-loop
 
+                    if (itemFoundBool == false)
+                    {
+                        Console.WriteLine("That name is not on the list.");
+                    }
 
                 } // end else if U
 
 
                 // --------------------------------------------------------
-                //  TODO: Else if the option is a 'D' or 'd' then delete the restaurant & raiting in the array (if it's there)
+                //  Else if the option is a 'D' or 'd' then delete the restaurant & raiting in the array (if it's there)
                 else if (userChoiceString == "D" || userChoiceString == "d")
                 {
+                    itemFoundBool = false; // flag variable
                     Console.WriteLine("-- In the D/d area --");
                     Console.WriteLine("-- > Please enter in restaurant name to delete...");
                     checkNameString = checkStringMeth();
@@ -233,19 +305,64 @@ namespace CompChalCRUApp
                     // for-loop, Look for checkNameString
                     for (index = 0; index < Rows; index++)
                     {
-                        if ((name2DArray[index, 0]) == checkNameString)
+                        if ((name2DArray[index, 0]) != checkNameString)
                         {
-                            Console.WriteLine($"Found restaurant '{checkNameString}'at index '{index}', entry deleted and space available for new entry");
-                            name2DArray[index, 0] = "";
-                            name2DArray[index, 1] = "";
+                            // nothing, skip for now
                         }
                         else
                         {
-                            Console.WriteLine($"That name is not at index '{index}'.");
+                            if (itemFoundBool == false)
+                            {
+                                Console.WriteLine($"Found restaurant '{checkNameString}'at index '{index}', entry deleted and space available for new entry");
+                                name2DArray[index, 0] = "";
+                                name2DArray[index, 1] = "";
+                                itemFoundBool = true;
+                            }
                         }
                     } // end for-loop
 
+                    if (itemFoundBool == false)
+                    {
+                        Console.WriteLine("That name is not on the list.");
+                    }
+
                 } // end else if D
+
+
+                // --------------------------------------------------------
+                //  Else if the option is a 'C' or 'c' then add a name to the array (if there's room)
+                else if (userChoiceString == "C" || userChoiceString == "c")
+                {
+                    itemFoundBool = false; // flag variable
+                    Console.WriteLine("-- In the C/c area --");
+
+                    // for-loop, look for blank value, fill in with new name
+                    for (index = 0; index < Rows; index++)
+                    {
+                        if ((name2DArray[index, 0]) != "")
+                        {
+                            // nothing, skip for now
+                        }
+                        else
+                        {
+                            if (itemFoundBool == false)
+                            {
+                                Console.WriteLine($"Space found at index '{index}'.");
+                                Console.WriteLine("--> Please enter in name of restaurant.");
+                                name2DArray[index, 0] = checkStringMeth();
+                                Console.WriteLine("--> Please enter in raiting of restaurant.");
+                                name2DArray[index, 1] = checkRaitingMeth();
+                                itemFoundBool = true;
+                            }
+                        }
+                    } // end for-loop
+
+                    if (itemFoundBool == false)
+                    {
+                        Console.WriteLine("There is no room for any more restaurants.");
+                    }
+                } // end else if C
+
 
 
                 // --------------------------------------------------------

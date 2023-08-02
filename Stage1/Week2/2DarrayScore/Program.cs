@@ -66,8 +66,3 @@ namespace TwoDArrayScore
         } // end Main()
     } // end ClassD
 } // end namespace
-
-
-
-
-int[,] numbers = { {1, 4, 2}, {3, 6, 8} }; //2D array of a 3row x 3column table

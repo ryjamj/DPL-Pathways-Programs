@@ -1,0 +1,36 @@
+﻿using System;
+
+namespace restaurantAPP
+{
+  class Program
+  {
+    static void Main(string[] args)
+    { 
+        // Declare and instantiate an Restaurant array object
+        Restaurant[] restaurantArray=new Restaurant[25];
+
+        // Loop through each array element and instantiate a individual Restaurant object for each array element.
+        for (int index = 0; index < restaurantArray.Length; index++)
+        {
+            restaurantArray[index] = new Restaurant();
+        }
+
+        // Load in some test data to the array object to test both ways to assign values (instance vs property)
+        restaurantArray[1].setName("McDonalds");
+        restaurantArray[1].RRating = 2;
+        restaurantArray[10].setName("Lazlos");
+        restaurantArray[10].RRating = 4;
+        restaurantArray[20].setName("Venue");
+        restaurantArray[20].RRating = 5;
+
+
+        // print each restaurant object to test the property gets and the toString()
+        for (int index = 0; index < restaurantArray.Length; index++)
+        {
+            if (!(((restaurantArray[index]).getName())==null))
+                Console.WriteLine(restaurantArray[index]);
+        }
+
+    } // Main
+  } // class
+} // namespace

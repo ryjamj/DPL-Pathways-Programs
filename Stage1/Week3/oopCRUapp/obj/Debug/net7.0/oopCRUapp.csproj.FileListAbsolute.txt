@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\bin\Debug\net7.0\oopCRUapp.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\bin\Debug\net7.0\oopCRUapp.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\bin\Debug\net7.0\oopCRUapp.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\bin\Debug\net7.0\oopCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\bin\Debug\net7.0\oopCRUapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\refint\oopCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\oopCRUapp.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\oopCRUapp\obj\Debug\net7.0\ref\oopCRUapp.dll
