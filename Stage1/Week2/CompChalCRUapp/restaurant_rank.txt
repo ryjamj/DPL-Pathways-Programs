@@ -1,0 +1,50 @@
+Starbucks
+1 stars
+McDonald's
+2 stars
+KFC
+3 stars
+Domino's Pizza
+4 stars
+Subway
+5 stars
+Taco Bell
+6 stars
+Tim Hortons
+7 stars
+Wendy's
+8 stars
+Burger King
+9 stars
+Pizza Hut
+10 stars
+Chipotle
+11 stars
+Dunkin'
+12 stars
+Chick-fil-A
+13 stars
+Haidilao
+14 stars
+Jack In The Box
+15 stars
+Olive Garden
+16 stars
+Texas Roadhouse
+17 stars
+Dutch Bros
+18 stars
+Popeyes
+19 stars
+Jollibee
+20 stars
+Papa John's
+21 stars
+Costa
+22 stars
+Chili's
+23 stars
+Cracker Barrel
+24 stars
+Greggs
+25 stars

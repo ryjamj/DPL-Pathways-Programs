@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\bin\Debug\net7.0\CompChalCRUapp.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\bin\Debug\net7.0\CompChalCRUapp.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\bin\Debug\net7.0\CompChalCRUapp.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\bin\Debug\net7.0\CompChalCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\bin\Debug\net7.0\CompChalCRUapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\refint\CompChalCRUapp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\CompChalCRUapp.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\Stage1\Week2\CompChalCRUapp\obj\Debug\net7.0\ref\CompChalCRUapp.dll

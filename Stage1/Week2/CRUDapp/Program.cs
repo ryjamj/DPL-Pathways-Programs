@@ -188,30 +188,6 @@ namespace CRUDApp
                 } // end else if R
 
 
-                // //  TODO: Else if the option is a 'U' or 'u' then update a name in the array (if it's there)
-                // else if (userChoiceString == "U" || userChoiceString == "u")
-                // {
-                //     Console.WriteLine("-- In the U/u area --");
-                //     Console.WriteLine("Look for name to update in array");
-                //     checkNameString = checkNameStringMeth();
-
-                //     // for-loop, Look for checkNameString
-                //     for (int index = 0; index < arraySize; index++)
-                //     {
-                //         if ((nameArray[index]) == checkNameString)
-                //         {
-                //             Console.WriteLine($"'{checkNameString}' found at index '{index}'.");
-                //             nameArray[index] = checkNameStringMeth();
-                //         }
-                //         else
-                //         {
-                //             Console.WriteLine($"That name is not at index '{index}'.");
-                //         }
-                //     } // end for-loop
-
-                // } // end else if U
-
-
                 //  TODO: Else if the option is a 'U' or 'u' then update a name in the array (if it's there)
                 else if (userChoiceString == "U" || userChoiceString == "u")
                 {
@@ -281,5 +257,3 @@ namespace CRUDApp
         }  // end main
     }  // end program
 }  // end namespace
-
-
