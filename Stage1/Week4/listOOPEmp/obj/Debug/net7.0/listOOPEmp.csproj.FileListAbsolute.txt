@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\bin\Debug\net7.0\listOOPEmp.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\bin\Debug\net7.0\listOOPEmp.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\bin\Debug\net7.0\listOOPEmp.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\bin\Debug\net7.0\listOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\bin\Debug\net7.0\listOOPEmp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\refint\listOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\listOOPEmp.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\listOOPEmp\obj\Debug\net7.0\ref\listOOPEmp.dll

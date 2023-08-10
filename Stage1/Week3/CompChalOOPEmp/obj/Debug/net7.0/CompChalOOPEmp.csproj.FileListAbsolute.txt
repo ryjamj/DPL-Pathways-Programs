@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\bin\Debug\net7.0\CompChalOOPEmp.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\bin\Debug\net7.0\CompChalOOPEmp.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\bin\Debug\net7.0\CompChalOOPEmp.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\bin\Debug\net7.0\CompChalOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\bin\Debug\net7.0\CompChalOOPEmp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\refint\CompChalOOPEmp.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\CompChalOOPEmp.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week3\CompChalOOPEmp\obj\Debug\net7.0\ref\CompChalOOPEmp.dll

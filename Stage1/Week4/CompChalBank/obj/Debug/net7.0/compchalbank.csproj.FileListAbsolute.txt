@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\bin\Debug\net7.0\compchalbank.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\bin\Debug\net7.0\compchalbank.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\bin\Debug\net7.0\compchalbank.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\bin\Debug\net7.0\compchalbank.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\bin\Debug\net7.0\compchalbank.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\refint\compchalbank.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\compchalbank.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\compchalbank\obj\Debug\net7.0\ref\compchalbank.dll

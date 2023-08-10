@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\bin\Debug\net7.0\aleclistAbstractClass.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\bin\Debug\net7.0\aleclistAbstractClass.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\bin\Debug\net7.0\aleclistAbstractClass.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\bin\Debug\net7.0\aleclistAbstractClass.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\bin\Debug\net7.0\aleclistAbstractClass.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\refint\aleclistAbstractClass.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\aleclistAbstractClass.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\aleclistAbstractClass\obj\Debug\net7.0\ref\aleclistAbstractClass.dll

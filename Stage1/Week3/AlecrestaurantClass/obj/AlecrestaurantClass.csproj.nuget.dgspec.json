@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\AlecrestaurantClass\\AlecrestaurantClass.csproj": {}
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\alecrestaurantclass\\AlecrestaurantClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\AlecrestaurantClass\\AlecrestaurantClass.csproj": {
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\alecrestaurantclass\\AlecrestaurantClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\AlecrestaurantClass\\AlecrestaurantClass.csproj",
+        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\alecrestaurantclass\\AlecrestaurantClass.csproj",
         "projectName": "AlecrestaurantClass",
-        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\AlecrestaurantClass\\AlecrestaurantClass.csproj",
+        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\alecrestaurantclass\\AlecrestaurantClass.csproj",
         "packagesPath": "C:\\Users\\ryjam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\AlecrestaurantClass\\obj\\",
+        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week3\\alecrestaurantclass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryjam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\bin\Debug\net7.0\oopinterface.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\bin\Debug\net7.0\oopinterface.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\bin\Debug\net7.0\oopinterface.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\bin\Debug\net7.0\oopinterface.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\bin\Debug\net7.0\oopinterface.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\refint\oopinterface.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\oopinterface.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week4\oopinterface\obj\Debug\net7.0\ref\oopinterface.dll
