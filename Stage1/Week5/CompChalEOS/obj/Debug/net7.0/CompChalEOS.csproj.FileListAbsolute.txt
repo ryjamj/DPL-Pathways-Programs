@@ -1,0 +1,15 @@
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.csproj.AssemblyReference.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.AssemblyInfoInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.AssemblyInfo.cs
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.csproj.CoreCompileInputs.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\bin\Debug\net7.0\CompChalEOS.exe
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\bin\Debug\net7.0\CompChalEOS.deps.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\bin\Debug\net7.0\CompChalEOS.runtimeconfig.json
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\bin\Debug\net7.0\CompChalEOS.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\bin\Debug\net7.0\CompChalEOS.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\refint\CompChalEOS.dll
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.pdb
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.genruntimeconfig.cache
+C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\ref\CompChalEOS.dll

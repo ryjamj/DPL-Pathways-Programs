@@ -1,4 +1,4 @@
 interface ICalcAnnualInterest
 {
-  double calcAnnualInterestMeth(); // interface method, we returning a string
+  double calcAnnualInterestMeth(); // interface method, we are returning a string
 }

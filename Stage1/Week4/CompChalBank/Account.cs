@@ -43,7 +43,7 @@ namespace CompChalBank
         // methods
         // =================================================
         // this is the abstract method that all children must implement
-        public abstract void DepositMeth(string AmountString);
+        public abstract void DepositMeth(string AmountString);  // since this is the same for all child, you could not make this abstract and leave it here in parent only.
         public abstract void WithdrawalMeth(string AmountString);
 
         // ToString() override so an object can be printed out with the WriteLine.
