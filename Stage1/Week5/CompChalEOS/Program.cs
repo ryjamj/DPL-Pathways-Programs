@@ -17,148 +17,14 @@ namespace CompChalEOS
 {
     class Program
     {
-
-
-        // checkStringMeth() Method, check if string input is valid
-        // ================================================================================
-        static string checkStringMeth()
-        {
-            // variables
-            string inputString;
-
-            // do while, check if nameString is valid
-            do
-            {
-                // input from user
-                inputString = Console.ReadLine();
-
-                // check if input is empty
-                if (String.IsNullOrEmpty(inputString))
-                {
-                    Console.WriteLine("ERROR: string entry cannot be an empty entry. Try again.");
-                }
-            } while (String.IsNullOrEmpty(inputString)); // end do-while, inputString
-
-            return inputString;
-        } // end checkStringMeth()
-
-
-        // checkAmountMeth() method to check int inputs
-        // ================================================================================
-        static string checkAmountMeth()
-        {
-            // Create variables.
-            string AmountString;
-            int Amount;
-            string outputAmount;
-
-            // do-while loop to prompt user for raiting, msut be 0 <= x.  
-            do
-            {
-                // input from user
-                AmountString = Console.ReadLine();
-
-                // check if the provided score is integer.
-                if (!int.TryParse(AmountString, out Amount))
-                {
-                    Console.WriteLine("ERROR: This is not a number, try again.");
-                }
-
-                // check if the provided score is 0 <= x.
-                if (Amount <= 0)
-                {
-                    Console.WriteLine("ERROR: The number must be > 0, try again.");
-                }
-
-            } while ((!int.TryParse(AmountString, out Amount)) || (Amount <= 0)); //end do-while, score
-
-            // convert int to string, return string
-            outputAmount = Amount.ToString();
-            return outputAmount;
-        } // end checkAmountMeth()
-
-
-        // checkMembershipTypeIntStringMeth() method to check int inputs for method type, returns string
-        // ================================================================================
-        static string checkMembershipTypeIntStringMeth()
-        {
-            // Create variables.
-            string AmountString;
-            int Amount;
-            string outputAmount;
-
-
-            // do-while loop to prompt user for raiting, msut be 0 <= x.  
-            do
-            {
-                // input from user
-                AmountString = Console.ReadLine();
-
-                // check if the provided score is integer.
-                if (!int.TryParse(AmountString, out Amount))
-                {
-                    Console.WriteLine("ERROR: This is not a number, try again.");
-                }
-
-                // check if the provided score is 0 <= x.
-                if (Amount > 4)
-                {
-                    Console.WriteLine("ERROR: Invalied number, use 1:Regular, 2:Executive, 3:NonProfit, 4:Corporate, try again.");
-                }
-
-            } while ((!int.TryParse(AmountString, out Amount)) || (Amount > 4)); //end do-while, score
-
-            // convert int to string, return string
-            outputAmount = Amount.ToString();
-            return outputAmount;
-        } // end checkMembershipTypeIntStringMeth()
-
-
-        // checkMEOrganizationStringMeth() Method, check if string input is valid, return bool
-        // ================================================================================
-        static bool checkMEOrganizationStringMeth()
-        {
-            // variables
-            string inputString;
-
-            // do while, check if nameString is valid
-            do
-            {
-                // input from user
-                inputString = Console.ReadLine();
-
-                // check if input is empty
-                if (String.IsNullOrEmpty(inputString))
-                {
-                    Console.WriteLine("ERROR: string entry cannot be an empty entry. Try again.");
-                }
-
-                // cehck for 'y' or 'no' response
-                if ((inputString != "y") && (inputString != "n"))
-                {
-                    Console.WriteLine("ERROR: response must either be 'y' for yes or 'n' for no. Try again.");
-                }
-            } while ((String.IsNullOrEmpty(inputString)) || ((inputString != "y") && (inputString != "n"))); // end do-while, inputString
-
-            // check for value, return correct bool
-            if (inputString == "y")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-        } // end checkMEOrganizationStringMeth()
-
-
-
-
         // Main()
         // ================================================================================
         static void Main(string[] args)
         {
+
+            // custom methods class
+            CustomMethodsFile CustomMethods = new CustomMethodsFile();
+
             // Main() variables
             int index;
             string userChoiceString;
@@ -221,7 +87,6 @@ namespace CompChalEOS
                 } while (!userChoice); // end do-while, TODO: Get a valid input
 
 
-
                 // --------------------------------------------------------
                 //  Else if the option is an 'L' or 'l' then print the list
                 if (userChoiceString == "L" || userChoiceString == "l")
@@ -248,7 +113,7 @@ namespace CompChalEOS
 
                     // prompt user for MembershipID
                     Console.WriteLine("--> Please enter in MembershipID...");
-                    MembershipIDString = checkStringMeth();
+                    MembershipIDString = CustomMethods.checkStringMeth();
 
                     // for-loop, Look for MembershipID in list
                     for (index = 0; index < membershipList.Count; index++)
@@ -264,7 +129,7 @@ namespace CompChalEOS
                                 // MembershipID found, prompt user for new amount value, perform despoit meth()
                                 Console.WriteLine($"'Found membership '{MembershipIDString}' at index '{index}'");
                                 Console.WriteLine("--> Please enter in purcahse amount...");
-                                AmountString = checkAmountMeth();
+                                AmountString = CustomMethods.checkAmountMeth();
                                 membershipList[index].purchaseMeth(AmountString);
                                 itemFoundBool = true;
                             }
@@ -279,7 +144,6 @@ namespace CompChalEOS
                 } // end else-if P
 
 
-
                 // --------------------------------------------------------
                 //  Else if the option is a 'T' or 'T' then perform return method
                 else if (userChoiceString == "T" || userChoiceString == "t")
@@ -290,7 +154,7 @@ namespace CompChalEOS
 
                     // prompt user for MembershipID
                     Console.WriteLine("--> Please enter in MembershipID...");
-                    MembershipIDString = checkStringMeth();
+                    MembershipIDString = CustomMethods.checkStringMeth();
 
                     // for-loop, Look for MembershipID in list
                     for (index = 0; index < membershipList.Count; index++)
@@ -306,7 +170,7 @@ namespace CompChalEOS
                                 // MembershipID found, prompt user for new amount value, perform return meth()
                                 Console.WriteLine($"'Found membership '{MembershipIDString}' at index '{index}'");
                                 Console.WriteLine("--> Please enter in return amount...");
-                                AmountString = checkAmountMeth();
+                                AmountString = CustomMethods.checkAmountMeth();
                                 membershipList[index].returnMeth(AmountString);
                                 itemFoundBool = true;
                             }
@@ -331,7 +195,7 @@ namespace CompChalEOS
 
                     // prompt user for MembershipID
                     Console.WriteLine("--> Please enter in MembershipID...");
-                    MembershipIDString = checkStringMeth();
+                    MembershipIDString = CustomMethods.checkStringMeth();
 
                     // for-loop, Look for MembershipID in list
                     for (index = 0; index < membershipList.Count; index++)
@@ -370,7 +234,7 @@ namespace CompChalEOS
 
                     // prompt user for MembershipID
                     Console.WriteLine("--> Please enter in new unique Membership ID value for the account...");
-                    MembershipIDString = checkStringMeth();
+                    MembershipIDString = CustomMethods.checkStringMeth();
 
                     // for-loop, Look for MembershipID in list
                     for (index = 0; index < membershipList.Count; index++)
@@ -395,9 +259,9 @@ namespace CompChalEOS
                     if (itemFoundBool == false)
                     {
                         Console.WriteLine("--> Please enter in primary contact email address for the account...");
-                        ContactEmailString = checkStringMeth();
+                        ContactEmailString = CustomMethods.checkStringMeth();
                         Console.WriteLine("--> Please enter in 'Membership Type' for the account (1:Regular, 2:Executive, 3:NonProfit, 4:Corporate)...");
-                        MembershipTypeIntString = checkMembershipTypeIntStringMeth();
+                        MembershipTypeIntString = CustomMethods.checkMembershipTypeIntStringMeth();
 
                         if (MembershipTypeIntString == "1")  // Regular
                         {
@@ -412,7 +276,7 @@ namespace CompChalEOS
                         else if (MembershipTypeIntString == "3")  // NonProfit
                         {
                             Console.WriteLine("--> Is this Non-Profit a military or educational organization (y/n)?...");
-                            membershipList.Add(new NonProfitMembership(MembershipIDString, ContactEmailString, "NonProfit", 50, 0, checkMEOrganizationStringMeth()));
+                            membershipList.Add(new NonProfitMembership(MembershipIDString, ContactEmailString, "NonProfit", 50, 0, CustomMethods.checkMEOrganizationStringMeth()));
                         }
                         else // Corporate
                         {
@@ -433,7 +297,7 @@ namespace CompChalEOS
 
                     // prompt user for MembershipID
                     Console.WriteLine("--> Please enter in Membership ID value for the account to update...");
-                    MembershipIDString = checkStringMeth();
+                    MembershipIDString = CustomMethods.checkStringMeth();
 
                     // for-loop, Look for MembershipID in list
                     for (index = 0; index < membershipList.Count; index++)
@@ -447,9 +311,9 @@ namespace CompChalEOS
                             if (itemFoundBool == false)
                             {
                                 Console.WriteLine("--> Please enter in primary contact email address for the account...");
-                                ContactEmailString = checkStringMeth();
+                                ContactEmailString = CustomMethods.checkStringMeth();
                                 Console.WriteLine("--> Please enter in 'Membership Type' for the account (1:Regular, 2:Executive, 3:NonProfit, 4:Corporate)...");
-                                MembershipTypeIntString = checkMembershipTypeIntStringMeth();
+                                MembershipTypeIntString = CustomMethods.checkMembershipTypeIntStringMeth();
 
                                 if (MembershipTypeIntString == "1")  // Regular
                                 {
@@ -470,7 +334,7 @@ namespace CompChalEOS
                                 else if (MembershipTypeIntString == "3")  // NonProfit
                                 {
                                     Console.WriteLine("--> Is this Non-Profit a military or educational organization (y/n)?...");
-                                    membershipList[index] = new NonProfitMembership(MembershipIDString, ContactEmailString, "NonProfit", 50, 0, checkMEOrganizationStringMeth());
+                                    membershipList[index] = new NonProfitMembership(MembershipIDString, ContactEmailString, "NonProfit", 50, 0, CustomMethods.checkMEOrganizationStringMeth());
                                     itemFoundBool = true;
                                     Console.WriteLine("Membership account updated.");
                                     break;
@@ -494,7 +358,42 @@ namespace CompChalEOS
                 } // end else if U
 
 
+                // --------------------------------------------------------
+                //  Else if the option is a 'D' or 'd' then delete the membership account from the list (if it's there)
+                else if (userChoiceString == "D" || userChoiceString == "d")
+                {
+                    Console.WriteLine("-- In the D/d area --");
+                    Console.WriteLine("Delete membership information from the list.");
+                    itemFoundBool = false; // flag variable
 
+                    // prompt user for MembershipID
+                    Console.WriteLine("--> Please enter in Membership ID value for the account to update...");
+                    MembershipIDString = CustomMethods.checkStringMeth();
+
+                    // for-loop, Look for MembershipID in list
+                    for (index = 0; index < membershipList.Count; index++)
+                    {
+                        if (membershipList[index].MembershipID != MembershipIDString)
+                        {
+                            // nothing, skip for now
+                        }
+                        else
+                        {
+                            if (itemFoundBool == false)
+                            {
+                                membershipList.Remove(membershipList[index]);
+                                Console.WriteLine($"Found membership id '{MembershipIDString}' at index '{index}', entry deleted from list.");
+                                itemFoundBool = true;
+                            }
+                        } // end if-else
+                    } // end for-loop
+
+                    // if user prompt of MembershipID not found 
+                    if (itemFoundBool == false)
+                    {
+                        Console.WriteLine($"ERROR: Cound not find that membership id '{MembershipIDString}' within the list, action terminated.");
+                    }
+                } // end else if D
 
 
                 // --------------------------------------------------------
@@ -505,7 +404,6 @@ namespace CompChalEOS
                 } // end else if Q
 
             } while (!(userChoiceString == "Q") && !(userChoiceString == "q")); // end do-while, loop Main()
-
 
         } // end Main()
     } // end class Program

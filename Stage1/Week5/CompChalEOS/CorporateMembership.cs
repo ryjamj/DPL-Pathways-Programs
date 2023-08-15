@@ -4,7 +4,7 @@ Last Updated: 08/14/2023
 Program Description: Competency Challenge End of Stage 1
 
 Requirements:
-1 - if OEOrganization = true,  CashBack() is doubled
+1 - 
 
 Algorithm:
 1 -
