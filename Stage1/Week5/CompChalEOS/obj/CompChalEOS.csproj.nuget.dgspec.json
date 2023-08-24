@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\CompChalEOS\\CompChalEOS.csproj": {}
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\compchaleos\\CompChalEOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\CompChalEOS\\CompChalEOS.csproj": {
+    "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\compchaleos\\CompChalEOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\CompChalEOS\\CompChalEOS.csproj",
+        "projectUniqueName": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\compchaleos\\CompChalEOS.csproj",
         "projectName": "CompChalEOS",
-        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\CompChalEOS\\CompChalEOS.csproj",
+        "projectPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\compchaleos\\CompChalEOS.csproj",
         "packagesPath": "C:\\Users\\ryjam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\CompChalEOS\\obj\\",
+        "outputPath": "C:\\Users\\ryjam\\Documents\\RyT\\DPL Summer 2023 Cohort\\Pathways Programs\\stage1\\week5\\compchaleos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryjam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

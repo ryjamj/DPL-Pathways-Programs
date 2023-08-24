@@ -1,4 +1,3 @@
-C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.csproj.AssemblyReference.cache
 C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.AssemblyInfoInputs.cache
 C:\Users\ryjam\Documents\RyT\DPL Summer 2023 Cohort\Pathways Programs\stage1\week5\CompChalEOS\obj\Debug\net7.0\CompChalEOS.AssemblyInfo.cs

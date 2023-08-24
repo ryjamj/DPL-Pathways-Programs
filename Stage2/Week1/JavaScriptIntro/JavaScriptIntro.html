@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Intro: enter string or int into list</title>
+
+    <link rel="stylesheet" href="JavaScriptIntro.css">
+    <script src="JavaScriptIntro.js"></script>
+
+</head>
+
+<body>
+    <!-- intro -->
+    <div>
+        <h1> Introduction to Javascript </h1>
+        <p>Create a program that can accept a user resposne, determines if the response is a string or intenger, and
+            places the reponse in the appropriate list.</p>
+    </div>
+    <br>
+
+    <!-- The Form -->
+    <form name="myForm">
+        <label for="StringEnterBox">Enter in a Test String here</label><br>
+        <input type="text" id="StringEnterBox" name="StringEnterBox" value="">
+        <input type="reset">
+    </form>
+    <br>
+
+    <!--buttons -->
+    <button type="button" id="addToListButtonID" onclick="validateInputAddToListFunc()">Add to List</button>
+    <button type="button" id="resetButtonID" onclick="resetListsFunc()">Reset Lists</button>
+    <br>
+
+    <div class="myflexboxRow">
+        <!-- String List -->
+        <div class="myflexboxColumn">
+            <h2>An Ordered HTML String List</h2>
+            <ol id='myList1'></ol>
+        </div>
+
+        <!-- Integer List -->
+        <div class="myflexboxColumn">
+            <h2>An Ordered HTML Integer List</h2>
+            <ol id='myList2'></ol>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
