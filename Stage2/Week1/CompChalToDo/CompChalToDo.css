@@ -1,0 +1,49 @@
+  /* basic style */
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+/* Container for flexboxes */
+.myflexboxRow {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Create four equal entries in myflexbox */
+.myflexboxColumn {
+    flex: 33%;
+    padding: 20px;
+}
+
+/* lists */
+ol.myLists {
+    list-style-type: circle;
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
+
+/* buttons */
+#resetButtonID {
+    font-size: 20px;
+    background-color: #e7e7e7;
+    color: black;
+}
+
+#addToListButtonID {
+    font-size: 20px;
+    background-color: #4CAF50;
+}
+
+#removeToListButtonID {
+    font-size: 20px;
+    background-color: #af4c4c;
+}

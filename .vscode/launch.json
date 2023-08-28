@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Stage2\\Week1\\TSHelloWorld\\src\\TSHelloWorld.ts",
+            "program": "${workspaceFolder}\\Stage2\\Week1\\CompChalToDo\\src\\CompChalToDo.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"

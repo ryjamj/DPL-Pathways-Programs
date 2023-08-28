@@ -32,19 +32,3 @@ function resetListsFunc() {
     document.getElementById("myList2").innerHTML = "";
     alert("lists have been reset");
 } // end function
-
-
-// create class
-class Car {
-    constructor(name, year) {
-        this.name = name;
-        this.year = year;
-    }
-    ageMeth(x) { // the method()
-        return x - this.year;
-    }
-}
-
-// create object 
-const myCar = new Car("Ford", 2014);
-document.getElementById("demo").innerHTML = "My car is " + myCar.ageMeth(year) + " years old.";

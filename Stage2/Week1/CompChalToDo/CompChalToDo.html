@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CompChalToDo Proejct</title>
+
+    <link rel="stylesheet" href="CompChalToDo.css">
+    <script src ="dist/CompChalToDo.js"></script>
+</head>
+
+<body>
+
+    <!-- intro -->
+    <div>
+        <h1> Competency Challenge Proejct: To-Do List </h1>
+        <p>Create a To-Do list program.</p>
+    </div>
+    <br>
+
+    <!-- The Form -->
+    <form name="myForm">
+        <label for="StringEnterBox">Enter in a 'To-Do' String here</label><br>
+        <input type="text" id="StringEnterBox" name="StringEnterBox" value="">
+        <input type="reset">
+    </form>
+    <br>
+
+    <!--buttons -->
+    <button type="button" id="resetButtonID" onclick="resetListsFunc()">Reset List</button>
+    <button type="button" id="addToListButtonID" onclick="validateInputAddToListFunc()">Add to List</button>
+    <button type="button" id="removeToListButtonID" onclick="validateInputRemoveFromListFunc()">Remove from List</button>
+
+    <br>
+
+    <div class="myflexboxRow">
+        <!-- ToDo List -->
+        <div class="myflexboxColumn">
+            <h2>To Do List</h2>
+            <ul id='myList1'></ul>
+        </div>
+
+</body>
+
+</html>

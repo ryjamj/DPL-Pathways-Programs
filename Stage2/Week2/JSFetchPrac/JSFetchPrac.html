@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSFetchPrac Project</title>
+
+    <link rel="stylesheet" href="JSFetchPrac.css">
+    <script src="dist/JSFetchPrac.js"></script>
+</head>
+
+<body>
+
+    <body>
+
+        <!-- intro -->
+        <div>
+            <h1> JSFetchPrac Project </h1>
+            <p>Retrieve JSON data. Display is as a JSON string and a JavaScript Object.</p>
+            <p>Note: The Bacon Ipsum JSON API is a REST interface for generating meaty lorem ipsum text and can be used
+                by any application. Pass in the following parameters using an HTTPS GET and we’ll return a JSON string
+                array of paragraphs.</p>
+            <p>Example string: https://baconipsum.com/api/?type=meat-and-filler</p>
+        </div>
+        <br>
+
+        <!-- The Form -->
+        <form name="myForm">
+            <label for="StringEnterBox">Enter in a Rest-API String Here</label><br>
+            <input type="text" id="StringEnterBox" name="StringEnterBox" value="">
+            <input type="reset">
+        </form>
+        <br>
+
+        <!--buttons -->
+        <button type="button" id="getJONButtonID" onclick="getAPIDataFunc()">Get API Data</button>
+        <button type="button" id="resetParaButtonID" onclick="resetParagraphsFunc()">Reset Paragraphs</button>
+
+        <br>
+
+        <div class="myflexboxRow">
+            <!-- the paragraph-->
+            <div class="myflexboxColumn">
+                <h2>Raw Return</h2>
+                <p id='myp1'></p>
+                <br>
+
+                <h2>JSON String</h2>
+                <p id='myp2'></p>
+                <br>
+
+                <h2>JavaScript Array</h2>
+                <p id='myp3'></p>
+            </div>
+        </div>
+
+    </body>
+
+</body>
+
+</html>
