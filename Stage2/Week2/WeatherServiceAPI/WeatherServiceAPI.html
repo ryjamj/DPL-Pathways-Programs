@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherServiceAPI Project</title>
+
+    <!-- css links -->
+    <link rel="stylesheet" href="WeatherServiceAPI.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <!-- JS LInks -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="dist/WeatherServiceAPI.js"></script>
+
+
+</head>
+
+<body>
+
+
+    <!-- intro -->
+    <div>
+        <h1>WeatherServiceAPI Project: Access data from weather service API</h1>
+        <p>Design and develop the front end of an application that will use the <a
+                href="https://docs.github.com/en/rest" target="_blank"> GitHub API</a>.</p>
+    </div>
+    <br>
+
+    <!-- The Form -->
+    <form name="myForm1">
+        <label for="GiHubIDBox">Select a Github profile ID</label><br>
+        <select id="GiHubIDBox">
+            <option value="ryjamj">ryjamj</option>
+            <option value="aengebretson62">aengebretson62</option>
+            <option value="c-plock">c-plock</option>
+            <option value="markkenne">markkenne</option>
+            <option value="NicholasWemhoff">NicholasWemhoff</option>
+            <option value="MsTiffJ">MsTiffJ</option>
+            <option value="FakeAccountBreakHere">FakeAccountBreakHere</option>
+        </select><br /><br />
+    </form>
+    <br>
+
+    <!-- the map -->
+    <div id="map"></div>
+    <p id="latP"></p>
+    <p id="lngP"></p>
+    <script src="dist/leaflet.js"></script>
+    <br>
+
+    <div>
+        <h2>API String Check</h2>
+        <p id="apiCheck1ID"></p>
+        <p id="apiCheck2ID"></p>
+    </div>
+
+</body>
+
+</html>

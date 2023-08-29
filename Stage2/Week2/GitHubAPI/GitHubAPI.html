@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSFetchPrac2 Project</title>
+
+    <link rel="stylesheet" href="GitHubAPI.css">
+    <script src="dist/GitHubAPI.js"></script>
+</head>
+
+<body>
+
+    <body>
+
+        <!-- intro -->
+        <div>
+            <h1> GitHubAPI Project: Access GitHub API</h1>
+            <p>Design and develop the front end of an application that will use the <a
+                    href="https://docs.github.com/en/rest" target="_blank"> GitHub API</a>.</p>
+        </div>
+        <br>
+
+        <!-- The Form -->
+        <form name="myForm1">
+            <label for="GiHubIDBox">Select a Github profile ID</label><br>
+            <select id="GiHubIDBox">
+                <option value="ryjamj">ryjamj</option>
+                <option value="aengebretson62">aengebretson62</option>
+                <option value="c-plock">c-plock</option>
+                <option value="markkenne">markkenne</option>
+                <option value="NicholasWemhoff">NicholasWemhoff</option>
+                <option value="MsTiffJ">MsTiffJ</option>
+                <option value="FakeAccountBreakHere">FakeAccountBreakHere</option>
+            </select><br /><br />
+        </form>
+        <br>
+
+        <!--buttons -->
+        <button type="button" id="getJONButtonID" onclick="getAPIDataFunc()">Get API Data</button>
+
+        <br>
+
+        <div>
+            <h2>Github Repo Finder</h2>
+            <p id="theUserNameID"></p>
+            <p id="theReposID"></p>
+        </div>
+
+
+    </body>
+
+</body>
+
+</html>

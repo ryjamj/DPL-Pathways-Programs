@@ -1,0 +1,43 @@
+  /* basic style */
+  body {
+      background-color: rgba(210, 247, 209, 0.3);
+  }
+
+  h1 {
+      text-align: center;
+      color: #3f9142;
+  }
+
+  p {
+      text-align: justify;
+      letter-spacing: 1px;
+  }
+
+  /* Container for flexboxes */
+  .myflexboxRow {
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  /* Create four equal entries in myflexbox */
+  .myflexboxColumn {
+      flex: 33%;
+      padding: 20px;
+  }
+
+  /* buttons */
+  #resetButtonID {
+      font-size: 20px;
+      background-color: #e7e7e7;
+      color: black;
+  }
+
+  #getJONButtonID {
+      font-size: 20px;
+      background-color: #4CAF50;
+  }
+
+  #theUserNameID {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }

@@ -1,20 +1,20 @@
 // Function #1: get API Data paragraphs
 async function getAPIDataFunc() {
 
+    // ---- API ----
+    const ApiString: string = (<HTMLInputElement>document.getElementById("StringEnterBox")).value;
+    const response: Response = await fetch(ApiString); // api call
+    const rawReturn = await response.json();  // read the response
+
     // ---- variables ----
-    const endPointString: string = (<HTMLInputElement>document.getElementById("StringEnterBox")).value;
-    const ApiString: string = endPointString;
     const myp1: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp1"));
     const myp2: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp2"));
     const myp3: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp3"));
-    const response: Response = await fetch(ApiString); // api call
-    const rawReturn = await response.json();  // read the response
-    const jsonString: string = JSON.stringify(rawReturn) // convert reponse to JSON string
+    const jsonString: string = JSON.stringify(rawReturn) // convert API reponse to JSON string
     const quoteString: string = JSON.stringify(rawReturn.content); // pull the JSON.cotent attribute out
     const authorString: string = JSON.stringify(rawReturn.author); // pull the JSON.author attribute out
 
     // ---- display results, check typeof ----
-
     // output #1
     myp1.innerHTML = jsonString;
     console.log(typeof jsonString);

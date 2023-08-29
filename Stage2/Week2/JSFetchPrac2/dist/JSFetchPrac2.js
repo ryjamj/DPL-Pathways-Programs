@@ -1,33 +1,29 @@
 "use strict";
-var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-};
-function getAPIDataFunc() {
-    return __awaiter(this, void 0, void 0, function* () {
-        const endPointString = document.getElementById("StringEnterBox").value;
-        const ApiString = endPointString;
-        const myp1 = document.getElementById("myp1");
-        const myp2 = document.getElementById("myp2");
-        const myp3 = document.getElementById("myp3");
-        const response = yield fetch(ApiString);
-        const rawReturn = yield response.json();
-        const jsonString = JSON.stringify(rawReturn);
-        const quoteString = JSON.stringify(rawReturn.content);
-        const authorString = JSON.stringify(rawReturn.author);
-        myp1.innerHTML = jsonString;
-        console.log(typeof jsonString);
-        myp2.innerHTML = quoteString;
-        console.log(typeof quoteString);
-        myp3.innerHTML = authorString;
-        console.log(typeof authorString);
-    });
+// Function #1: get API Data paragraphs
+async function getAPIDataFunc() {
+    // ---- API ----
+    const ApiString = document.getElementById("StringEnterBox").value;
+    const response = await fetch(ApiString); // api call
+    const rawReturn = await response.json(); // read the response
+    // ---- variables ----
+    const myp1 = document.getElementById("myp1");
+    const myp2 = document.getElementById("myp2");
+    const myp3 = document.getElementById("myp3");
+    const jsonString = JSON.stringify(rawReturn); // convert API reponse to JSON string
+    const quoteString = JSON.stringify(rawReturn.content); // pull the JSON.cotent attribute out
+    const authorString = JSON.stringify(rawReturn.author); // pull the JSON.author attribute out
+    // ---- display results, check typeof ----
+    // output #1
+    myp1.innerHTML = jsonString;
+    console.log(typeof jsonString);
+    // output #2
+    myp2.innerHTML = quoteString;
+    console.log(typeof quoteString);
+    // output #3
+    myp3.innerHTML = authorString;
+    console.log(typeof authorString);
 }
+// Function #2: reset paragraphs
 function resetParagraphsFunc() {
     const myPItem1 = document.getElementById("myp1");
     const myPItem2 = document.getElementById("myp2");
