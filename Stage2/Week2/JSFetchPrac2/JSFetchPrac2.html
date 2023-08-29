@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSFetchPrac Project</title>
+    <title>JSFetchPrac2 Project: random quote</title>
 
-    <link rel="stylesheet" href="JSFetchPrac.css">
-    <script src="dist/JSFetchPrac.js"></script>
+    <link rel="stylesheet" href="JSFetchPrac2.css">
+    <script src="dist/JSFetchPrac2.js"></script>
 </head>
 
 <body>
@@ -16,12 +16,9 @@
 
         <!-- intro -->
         <div>
-            <h1> JSFetchPrac Project </h1>
+            <h1> JSFetchPrac2 Project: Random quote</h1>
             <p>Retrieve JSON data. Display is as a JSON string and a JavaScript Object.</p>
-            <p>Note: The Bacon Ipsum JSON API is a REST interface for generating meaty lorem ipsum text and can be used
-                by any application. Pass in the following parameters using an HTTPS GET and we’ll return a JSON string
-                array of paragraphs.</p>
-            <p>Example string: https://baconipsum.com/api/?type=meat-and-filler</p>
+            <p>Example string: https://api.quotable.io/random</p>
         </div>
         <br>
 
@@ -30,19 +27,6 @@
             <label for="StringEnterBox">Enter in a Rest-API String Here</label><br>
             <input type="text" id="StringEnterBox" name="StringEnterBox" value="">
             <input type="reset">
-        </form>
-        <br>
-
-        <!-- The Form -->
-        <form name="myForm2">
-            <label for="IntegerEnterBox">Enter in a integer</label><br>
-            <select id="IntegerEnterBox">
-                <option value=1>1</option>
-                <option value=2>2</option>
-                <option value=3>3</option>
-                <option value=4>4</option>
-                <option value=5>5</option>
-            </select><br /><br />
         </form>
         <br>
 
@@ -55,15 +39,15 @@
         <div class="myflexboxRow">
             <!-- the paragraph-->
             <div class="myflexboxColumn">
-                <h2>Raw Return</h2>
+                <h2>JSON object</h2>
                 <p id='myp1'></p>
                 <br>
 
-                <h2>JSON String</h2>
+                <h2>JSON object value: Content</h2>
                 <p id='myp2'></p>
                 <br>
 
-                <h2>Formatted Paragraphs</h2>
+                <h2>JSON object value: Author</h2>
                 <p id='myp3'></p>
             </div>
         </div>

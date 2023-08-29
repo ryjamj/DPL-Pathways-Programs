@@ -3,28 +3,27 @@ async function getAPIDataFunc() {
 
     // ---- variables ----
     const endPointString: string = (<HTMLInputElement>document.getElementById("StringEnterBox")).value;
-    const integerString: string = (<HTMLInputElement>document.getElementById("IntegerEnterBox")).value;
-    const ApiString: string = endPointString + "&paras=" + integerString;
+    const ApiString: string = endPointString;
     const myp1: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp1"));
     const myp2: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp2"));
     const myp3: HTMLInputElement = (<HTMLInputElement>document.getElementById("myp3"));
     const response: Response = await fetch(ApiString); // api call
     const rawReturn = await response.json();  // read the response
     const jsonString: string = JSON.stringify(rawReturn) // convert reponse to JSON string
-    const formatedParagrah = JSON.parse(jsonString) // convert JSON string to js object
+    const quoteString: string = JSON.stringify(rawReturn.content); // pull the JSON.cotent attribute out
+    const authorString: string = JSON.stringify(rawReturn.author); // pull the JSON.author attribute out
 
     // ---- display results, check typeof ----
 
     // output #1
-    myp1.innerHTML = rawReturn;
-    console.log(typeof rawReturn);
-    // output #2
-    myp2.innerHTML = jsonString;
+    myp1.innerHTML = jsonString;
     console.log(typeof jsonString);
+    // output #2
+    myp2.innerHTML = quoteString;
+    console.log(typeof quoteString);
     // output #3
-    for (var para in formatedParagrah) {
-        myp3.innerHTML += "<p>" + formatedParagrah[para] + "</p>";
-    }
+    myp3.innerHTML = authorString;
+    console.log(typeof authorString);
 }
 
 
