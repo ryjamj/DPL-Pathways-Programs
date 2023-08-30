@@ -30,33 +30,50 @@
     </div>
     <br>
 
-    <!-- The Form -->
-    <form name="myForm1">
-        <label for="GiHubIDBox">Select a Github profile ID</label><br>
-        <select id="GiHubIDBox">
-            <option value="ryjamj">ryjamj</option>
-            <option value="aengebretson62">aengebretson62</option>
-            <option value="c-plock">c-plock</option>
-            <option value="markkenne">markkenne</option>
-            <option value="NicholasWemhoff">NicholasWemhoff</option>
-            <option value="MsTiffJ">MsTiffJ</option>
-            <option value="FakeAccountBreakHere">FakeAccountBreakHere</option>
-        </select><br /><br />
-    </form>
-    <br>
-
     <!-- the map -->
+    <h2>Click on the Map to Select a Site</h2>
     <div id="map"></div>
     <p id="latP"></p>
     <p id="lngP"></p>
     <script src="dist/leaflet.js"></script>
     <br>
 
+    <!-- check api section -->
     <div>
         <h2>API String Check</h2>
         <p id="apiCheck1ID"></p>
         <p id="apiCheck2ID"></p>
     </div>
+    <br>
+
+    <!-- card section -->
+    <h2>Forcase Elements</h2>
+    <div class="row">
+        <div class="column">
+          <div class="card">
+            <h3><b>Days of the Week</b></h3>
+            <p id="myDaysP"></p>
+          </div>
+        </div>
+      
+        <div class="column">
+          <div class="card">
+            <h3><b>Weather Report</b></h3>
+            <p id="myWeatherP"></p>
+          </div>
+        </div>
+        
+        <div class="column">
+          <div class="card">
+            <h3><b>Temperature</b></h3>
+            <p id="myTempP"></p>
+          </div>
+        </div>
+      </div>
+
+
+
+
 
 </body>
 
