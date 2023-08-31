@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CompChal: WeatherServiceAPI</title>
+
+  <!-- bootstrap css -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+  <!-- css links -->
+  <link rel="stylesheet" href="CompChalAPI.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+  <!-- JS LInks -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="dist/CompChalAPI.js"></script>
+
+</head>
+
+<body>
+
+  <!-- intro section -->
+  <section id="introSection">
+    <div class="container-fluid text-center">
+      <h1>Competency Challenge Problem: WeatherServiceAPI with Bootstrap</h1>
+      <p>Design and develop the front end of an application that will use the <a
+          href="https://www.weather.gov/documentation/services-web-api" target="_blank">Wether Service API</a>.</p>
+    </div>
+    <br>
+  </section>
+
+  <!-- map section -->
+  <section id="mapSection">
+    <div class="container-fluid">
+      <h2 class="lead">Click on the Map to Select a Site</h2>
+      <div id="map"></div>
+      <div class="container-sm my-5">
+        <div class="row">
+          <div class="col border">
+            <div class="p-5 bg-light text-dark">
+              <h5 class="text-center text-decoration-underline">Check Latitude</h5>
+              <p id="latP" class="text-center">click map</p>
+            </div>
+          </div>
+          <div class="col border">
+            <div class="p-5 bg-light text-dark">
+              <h5 class="text-center text-decoration-underline">Check Longitude</h5>
+              <p id="lngP" class="text-center">click map</p>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+  </section>
+
+  <br>
+
+  <!-- check api section -->
+  <section id="apiCheckSection">
+    <div class="text-center">
+      <h2>API String Check</h2>
+      <p class="lead">Checking the api string.</p>
+      <p id="apiCheck1ID"></p>
+      <p id="apiCheck2ID"></p>
+    </div>
+  </section>
+  <br>
+
+  <!-- Forcast section -->
+  <section id="forcastSection">
+    <div class="container-fluid">
+      <div class="text-center">
+        <h2>Forcast</h2>
+        <p class="lead">Forcast in days per week, the weather report, and the temperature.</p>
+      </div>
+      <div class="container-fluid my-5">
+        <div class="row">
+          <div class="col">
+            <div class="p-5 bg-primary text-light">
+              <h3 class="text-center text-decoration-underline"><b>Days of the Week</b></h3>
+              <p id="myDaysP"></p>
+            </div>
+          </div>
+          <div class="col">
+            <div class="p-5 bg-primary text-light">
+              <h3 class="text-center text-decoration-underline"><b>Weather Report</b></h3>
+              <p id="myWeatherP"></p>
+            </div>
+          </div>
+          <div class="col">
+            <div class="p-5 bg-primary text-light">
+              <h3 class="text-center text-decoration-underline"><b>Temperature</b></h3>
+              <p id="myTempP"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <!-- leaflet javascript -->
+  <script src="dist/leaflet.js"></script>
+  <!-- bootstrap javascript -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
